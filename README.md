@@ -1,4 +1,4 @@
-<img src="Julian Osorio.jpg"/>
+<img src="Julian.jpg"/>
 
 buena presentacion 
 
