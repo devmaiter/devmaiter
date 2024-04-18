@@ -1,4 +1,4 @@
-<img src="Julian.jpg"/>
+<img src="Julian.png"/>
 
 buena presentacion 
 
