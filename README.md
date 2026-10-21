@@ -3,7 +3,7 @@
 **Full-stack developer from Colombia — available for freelance work, hourly or per project.**
 Desarrollador full-stack en Colombia — disponible para trabajo freelance por horas o por proyecto.
 
-📫 **f1000161620@gmail.com** · 🌐 [Portfolio](https://github.com/devmaiter/Portafolio)
+📫 **f1000161620@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/oscar-julian-osorio-romero-369689229) · 🌐 [Portfolio](https://github.com/devmaiter/Portafolio)
 
 ## What I can do for you
 
