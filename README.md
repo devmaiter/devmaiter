@@ -3,7 +3,7 @@
 **Full-stack developer from Colombia — available for freelance work, hourly or per project.**
 Desarrollador full-stack en Colombia — disponible para trabajo freelance por horas o por proyecto.
 
-📫 **f1000161620@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/oscar-julian-osorio-romero-369689229) · 🌐 [Portfolio](https://github.com/devmaiter/Portafolio)
+📫 **f1000161620@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/oscar-julian-osorio-romero-369689229) · 🌐 [Portfolio](https://devmaiter.github.io/Portafolio/)
 
 ## What I can do for you
 
@@ -17,7 +17,7 @@ Desarrollador full-stack en Colombia — disponible para trabajo freelance por h
 
 - **4 years** as a remote full-stack developer at Konrradf, maintaining a commercial platform in production: **6,354 commits** and **369 merged merge requests** with a **97% merge rate**
 - Built an **AI-agent workflow with Claude Code** for that team: **+34% deliveries**
-- **Open source:** merged PRs in [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) ([#1031](https://github.com/aminueza/terraform-provider-minio/pull/1031), [#1032](https://github.com/aminueza/terraform-provider-minio/pull/1032), [#1040](https://github.com/aminueza/terraform-provider-minio/pull/1040)) (Go) and [zerocode](https://github.com/authorjapps/zerocode/pull/785) (Java)
+- **Open source:** merged PRs in [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) ([#1031](https://github.com/aminueza/terraform-provider-minio/pull/1031), [#1032](https://github.com/aminueza/terraform-provider-minio/pull/1032), [#1040](https://github.com/aminueza/terraform-provider-minio/pull/1040)) (Go), [rockpack](https://github.com/AlexSergey/rockpack/pull/117) (TypeScript) and [zerocode](https://github.com/authorjapps/zerocode/pull/785) (Java)
 - **[NetQuick](https://github.com/devmaiter/NetQuick)** — switch Windows network adapters between DHCP and static IP in seconds. Python, 135 tests, CI and releases with SHA-256 checksums (v1.3.0-beta)
 - **[Loop](https://github.com/devmaiter/loop-av-middleware)** — real-time AV middleware that connects Resolume, Onyx and Reaper (OSC, Art-Net, Socket.IO) with a tablet control panel. TypeScript / Node. **Bought by Multiaudio**
 - **BackFlow** — backline tracking for live events: used in 2 festivals, 168 pieces of gear *(private repo, demo on request)*
